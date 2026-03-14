@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz-themes.github.io/abyssal
+  baseUrl: quartz-themes.github.io/abyssal/abyssal
   ignorePatterns:
     - private
     - templates
